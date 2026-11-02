@@ -1,0 +1,173 @@
+[
+ {
+  "title": "Jawan",
+  "industry": "Bollywood",
+  "genre": "Action",
+  "language": "Hindi",
+  "rating": 7,
+  "duration": 169,
+  "certificate": "UA"
+ },
+ {
+  "title": "Pathaan",
+  "industry": "Bollywood",
+  "genre": "Action",
+  "language": "Hindi",
+  "rating": 5.9,
+  "duration": 146,
+  "certificate": "UA"
+ },
+ {
+  "title": "Animal",
+  "industry": "Bollywood",
+  "genre": "Crime",
+  "language": "Hindi",
+  "rating": 6.3,
+  "duration": 201,
+  "certificate": "A"
+ },
+ {
+  "title": "3 Idiots",
+  "industry": "Bollywood",
+  "genre": "Comedy",
+  "language": "Hindi",
+  "rating": 8.4,
+  "duration": 170,
+  "certificate": "U"
+ },
+ {
+  "title": "Stree 2",
+  "industry": "Bollywood",
+  "genre": "Horror Comedy",
+  "language": "Hindi",
+  "rating": 7.5,
+  "duration": 147,
+  "certificate": "UA"
+ },
+ {
+  "title": "Dangal",
+  "industry": "Bollywood",
+  "genre": "Sports Drama",
+  "language": "Hindi",
+  "rating": 8.3,
+  "duration": 161,
+  "certificate": "U"
+ },
+ {
+  "title": "Oppenheimer",
+  "industry": "Hollywood",
+  "genre": "Biopic",
+  "language": "English",
+  "rating": 8.3,
+  "duration": 180,
+  "certificate": "UA"
+ },
+ {
+  "title": "Inception",
+  "industry": "Hollywood",
+  "genre": "Sci-Fi",
+  "language": "English",
+  "rating": 8.8,
+  "duration": 148,
+  "certificate": "UA"
+ },
+ {
+  "title": "Interstellar",
+  "industry": "Hollywood",
+  "genre": "Sci-Fi",
+  "language": "English",
+  "rating": 8.7,
+  "duration": 169,
+  "certificate": "UA"
+ },
+ {
+  "title": "The Dark Knight",
+  "industry": "Hollywood",
+  "genre": "Action",
+  "language": "English",
+  "rating": 9,
+  "duration": 152,
+  "certificate": "UA"
+ },
+ {
+  "title": "Avatar: The Way of Water",
+  "industry": "Hollywood",
+  "genre": "Adventure",
+  "language": "English",
+  "rating": 7.6,
+  "duration": 192,
+  "certificate": "UA"
+ },
+ {
+  "title": "Top Gun: Maverick",
+  "industry": "Hollywood",
+  "genre": "Action",
+  "language": "English",
+  "rating": 8.2,
+  "duration": 130,
+  "certificate": "UA"
+ },
+ {
+  "title": "Barbie",
+  "industry": "Hollywood",
+  "genre": "Comedy",
+  "language": "English",
+  "rating": 6.8,
+  "duration": 114,
+  "certificate": "UA"
+ },
+ {
+  "title": "Inside Out 2",
+  "industry": "Hollywood",
+  "genre": "Animation",
+  "language": "English",
+  "rating": 7.6,
+  "duration": 96,
+  "certificate": "U"
+ },
+ {
+  "title": "RRR",
+  "industry": "South Indian",
+  "genre": "Action",
+  "language": "Telugu",
+  "rating": 7.8,
+  "duration": 187,
+  "certificate": "UA"
+ },
+ {
+  "title": "KGF: Chapter 2",
+  "industry": "South Indian",
+  "genre": "Action",
+  "language": "Kannada",
+  "rating": 8.2,
+  "duration": 168,
+  "certificate": "UA"
+ },
+ {
+  "title": "Kalki 2898 AD",
+  "industry": "South Indian",
+  "genre": "Sci-Fi",
+  "language": "Telugu",
+  "rating": 7.1,
+  "duration": 181,
+  "certificate": "UA"
+ },
+ {
+  "title": "Parasite",
+  "industry": "International",
+  "genre": "Thriller",
+  "language": "Korean",
+  "rating": 8.5,
+  "duration": 132,
+  "certificate": "A"
+ },
+ {
+  "title": "Spirited Away",
+  "industry": "International",
+  "genre": "Animation",
+  "language": "Japanese",
+  "rating": 8.6,
+  "duration": 125,
+  "certificate": "U"
+ }
+]

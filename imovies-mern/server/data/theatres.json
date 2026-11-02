@@ -1,0 +1,118 @@
+{
+ "real": {
+  "Mumbai": [
+   "PVR Phoenix Palladium, Lower Parel",
+   "INOX Inorbit Mall, Malad",
+   "Metro INOX, Marine Lines",
+   "Gaiety Galaxy, Bandra",
+   "Cinépolis Fun Republic, Andheri West"
+  ],
+  "New Delhi": [
+   "PVR Select Citywalk, Saket",
+   "PVR Director’s Cut, Vasant Kunj",
+   "Delite Diamond, Asaf Ali Road",
+   "PVR Priya, Vasant Vihar",
+   "PVR Plaza, Connaught Place"
+  ],
+  "Bengaluru": [
+   "PVR Orion Mall, Rajajinagar",
+   "INOX Garuda Mall, Magrath Road",
+   "PVR Forum Mall, Koramangala",
+   "PVR Phoenix Marketcity, Mahadevapura",
+   "Innovative Multiplex, Marathahalli"
+  ],
+  "Hyderabad": [
+   "AMB Cinemas, Gachibowli",
+   "Prasads Multiplex, Necklace Road",
+   "Sudarshan 35mm, RTC X Roads",
+   "PVR Next Galleria, Panjagutta",
+   "INOX GVK One, Banjara Hills"
+  ],
+  "Chennai": [
+   "Sathyam Cinemas, Royapettah",
+   "PVR Grand Galada, Pallavaram",
+   "Escape Cinemas, Express Avenue",
+   "AGS Cinemas, T. Nagar",
+   "Rohini Silver Screens, Koyambedu"
+  ],
+  "Kolkata": [
+   "INOX South City Mall",
+   "INOX Quest Mall, Park Circus",
+   "Priya Cinema, Rashbehari",
+   "Nandan, AJC Bose Road"
+  ],
+  "Pune": [
+   "PVR Phoenix Marketcity, Viman Nagar",
+   "City Pride, Kothrud",
+   "Cinépolis Seasons Mall, Magarpatta",
+   "PVR E-Square, University Road"
+  ],
+  "Ahmedabad": [
+   "PVR Acropolis Mall, Thaltej",
+   "Cinépolis Alpha One Mall, Vastrapur",
+   "INOX Himalaya Mall, Drive-In Road"
+  ],
+  "Jaipur": [
+   "Raj Mandir Cinema, Bhagwan Das Road",
+   "PVR Triton Mall",
+   "INOX Pink Square Mall, Raja Park"
+  ],
+  "Lucknow": [
+   "PVR Phoenix Palassio, Amar Shaheed Path",
+   "PVR Lulu Mall, Shaheed Path",
+   "INOX Riverside Mall, Gomti Nagar"
+  ],
+  "Chandigarh": [
+   "PVR Elante Mall, Industrial Area",
+   "Piccadily Cinema, Sector 34"
+  ],
+  "Kochi": [
+   "PVR Lulu Mall, Edappally",
+   "Cinépolis Centre Square Mall, MG Road",
+   "Saritha Theatre, Ernakulam"
+  ],
+  "Indore": [
+   "PVR C21 Mall, Vijay Nagar",
+   "PVR Treasure Island Mall, MG Road",
+   "INOX Malhar Mega Mall, Khajrana"
+  ],
+  "Gurugram": [
+   "PVR Ambience Mall, Nathupur",
+   "PVR MGF Metropolitan Mall, MG Road"
+  ],
+  "Noida": [
+   "PVR DLF Mall of India, Sector 18",
+   "PVR Logix City Centre, Sector 32",
+   "Cinépolis Gardens Galleria, Sector 38A"
+  ],
+  "Visakhapatnam": [
+   "INOX CMR Central, Maharanipeta",
+   "Jagadamba Theatre, Jagadamba Junction"
+  ],
+  "Mysuru": [
+   "DRC Cinemas, Mysuru",
+   "INOX Mall of Mysore"
+  ],
+  "Coimbatore": [
+   "PVR Brookefields Mall",
+   "KG Cinemas, Coimbatore",
+   "Broadway Cinemas, Coimbatore"
+  ]
+ },
+ "chains": [
+  "PVR INOX",
+  "Cinépolis",
+  "Miraj Cinemas",
+  "Carnival Cinemas",
+  "Movietime Cinemas",
+  "Wave Cinemas"
+ ],
+ "areas": [
+  "City Centre",
+  "Mall Road",
+  "Station Road",
+  "Highway Plaza",
+  "Old Town",
+  "Civil Lines"
+ ]
+}
