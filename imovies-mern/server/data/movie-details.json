@@ -1,0 +1,886 @@
+{
+  "Jawan": {
+    "id": 1,
+    "title": "Jawan",
+    "industry": "Bollywood",
+    "genre": "Action",
+    "language": "Hindi",
+    "rating": 7,
+    "durationMinutes": 169,
+    "certificate": "UA",
+    "year": 2023,
+    "director": "Atlee",
+    "cast": [
+      "Shah Rukh Khan",
+      "Nayanthara",
+      "Vijay Sethupathi",
+      "Deepika Padukone",
+      "Priyamani",
+      "Sanya Malhotra"
+    ],
+    "synopsis": "Told on a grand scale, it mixes high-octane action with an emotional father-and-son story and a comment on corruption and public services.",
+    "description": "A mysterious man with a hidden past sets out to right wrongs, taking on a powerful arms dealer with the help of a team of fearless women.",
+    "formats": [
+      "2D",
+      "IMAX 2D"
+    ],
+    "details": [
+      [
+        "Written & directed by",
+        "Atlee"
+      ],
+      [
+        "Produced by",
+        "Gauri Khan"
+      ],
+      [
+        "Presented by",
+        "Red Chillies Entertainment"
+      ],
+      [
+        "Languages",
+        "Hindi, Tamil, Telugu, Malayalam, Kannada"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/jawan.jpg",
+    "releaseDate": null
+  },
+  "Pathaan": {
+    "id": 2,
+    "title": "Pathaan",
+    "industry": "Bollywood",
+    "genre": "Action",
+    "language": "Hindi",
+    "rating": 5.9,
+    "durationMinutes": 146,
+    "certificate": "UA",
+    "year": 2023,
+    "director": "Siddharth Anand",
+    "cast": [
+      "Shah Rukh Khan",
+      "Deepika Padukone",
+      "John Abraham",
+      "Dimple Kapadia",
+      "Ashutosh Rana"
+    ],
+    "synopsis": "Packed with big stunts and international locations, it belongs to a shared universe of Indian spy films.",
+    "description": "An exiled Indian spy returns to stop a ruthless mercenary who is planning a devastating attack on the country.",
+    "formats": [
+      "2D",
+      "IMAX 2D",
+      "4DX"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Siddharth Anand"
+      ],
+      [
+        "Produced by",
+        "Aditya Chopra"
+      ],
+      [
+        "Presented by",
+        "Yash Raj Films"
+      ],
+      [
+        "Languages",
+        "Hindi, Tamil, Telugu"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/pathaan.jpg",
+    "releaseDate": null
+  },
+  "Animal": {
+    "id": 3,
+    "title": "Animal",
+    "industry": "Bollywood",
+    "genre": "Crime",
+    "language": "Hindi",
+    "rating": 6.3,
+    "durationMinutes": 201,
+    "certificate": "A",
+    "year": 2023,
+    "director": "Sandeep Reddy Vanga",
+    "cast": [
+      "Ranbir Kapoor",
+      "Anil Kapoor",
+      "Bobby Deol",
+      "Rashmika Mandanna",
+      "Triptii Dimri"
+    ],
+    "synopsis": "A dark, intense family drama with a long runtime, showing how rage and loyalty reshape everyone around him. Rated A for violence and mature themes.",
+    "description": "A son's fierce devotion to his father turns violent when an attempt on the father's life drags the whole family into a brutal feud.",
+    "formats": [
+      "2D",
+      "IMAX 2D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Sandeep Reddy Vanga"
+      ],
+      [
+        "Produced by",
+        "Bhushan Kumar, Pranay Reddy Vanga, Murad Khetani, Krishan Kumar"
+      ],
+      [
+        "Presented by",
+        "Gulshan Kumar & T-Series"
+      ],
+      [
+        "Production",
+        "Bhadrakali Pictures"
+      ],
+      [
+        "Languages",
+        "Hindi, Telugu, Tamil, Malayalam, Kannada"
+      ],
+      [
+        "Special format",
+        "Also in IMAX"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/animal.jpg",
+    "releaseDate": null
+  },
+  "3 Idiots": {
+    "id": 4,
+    "title": "3 Idiots",
+    "industry": "Bollywood",
+    "genre": "Comedy",
+    "language": "Hindi",
+    "rating": 8.4,
+    "durationMinutes": 170,
+    "certificate": "U",
+    "year": 2009,
+    "director": "Rajkumar Hirani",
+    "cast": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi",
+      "Kareena Kapoor",
+      "Boman Irani",
+      "Omi Vaidya"
+    ],
+    "synopsis": "A comedy with a big heart that questions the pressure of marks and rankings and asks whether we should chase passion over placements.",
+    "description": "Two friends go looking for their long-lost third buddy and recall their engineering college days with a free-thinking rebel who challenged rote learning.",
+    "formats": [
+      "2D"
+    ],
+    "details": [],
+    "trailerUrl": "",
+    "posterUrl": "/posters/3-idiots.jpg",
+    "releaseDate": null
+  },
+  "Stree 2": {
+    "id": 5,
+    "title": "Stree 2",
+    "industry": "Bollywood",
+    "genre": "Horror Comedy",
+    "language": "Hindi",
+    "rating": 7.5,
+    "durationMinutes": 147,
+    "certificate": "UA",
+    "year": 2024,
+    "director": "Amar Kaushik",
+    "cast": [
+      "Rajkummar Rao",
+      "Shraddha Kapoor",
+      "Pankaj Tripathi",
+      "Abhishek Banerjee",
+      "Aparshakti Khurana"
+    ],
+    "synopsis": "A horror-comedy sequel set in the small town of Chanderi, blending scares, jokes and local folklore.",
+    "description": "Chanderi faces a fresh supernatural threat, and the town's unlikely band of friends must unite again to protect its women.",
+    "formats": [
+      "2D"
+    ],
+    "details": [],
+    "trailerUrl": "",
+    "posterUrl": "/posters/stree-2.jpg",
+    "releaseDate": null
+  },
+  "Dangal": {
+    "id": 6,
+    "title": "Dangal",
+    "industry": "Bollywood",
+    "genre": "Sports Drama",
+    "language": "Hindi",
+    "rating": 8.3,
+    "durationMinutes": 161,
+    "certificate": "U",
+    "year": 2016,
+    "director": "Nitesh Tiwari",
+    "cast": [
+      "Aamir Khan",
+      "Fatima Sana Shaikh",
+      "Sanya Malhotra",
+      "Zaira Wasim",
+      "Sakshi Tanwar"
+    ],
+    "synopsis": "Based on the true story of the Phogat family, it follows the sisters' journey from village wrestling pits to the Commonwealth Games.",
+    "description": "A former wrestler trains his two daughters to become champions in a society that expects them to stay at home.",
+    "formats": [
+      "2D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Nitesh Tiwari"
+      ],
+      [
+        "Produced by",
+        "Aamir Khan, Kiran Rao, Siddharth Roy Kapur"
+      ],
+      [
+        "Written by",
+        "Nitesh Tiwari, Piyush Gupta, Shreyas Jain, Nikhil Mehrotra"
+      ],
+      [
+        "Lyrics",
+        "Amitabh Bhattacharya"
+      ],
+      [
+        "Music",
+        "Pritam"
+      ],
+      [
+        "Release date",
+        "23 December 2016"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/dangal.jpg",
+    "releaseDate": null
+  },
+  "Oppenheimer": {
+    "id": 7,
+    "title": "Oppenheimer",
+    "industry": "Hollywood",
+    "genre": "Biopic",
+    "language": "English",
+    "rating": 8.3,
+    "durationMinutes": 180,
+    "certificate": "UA",
+    "year": 2023,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh"
+    ],
+    "synopsis": "Shot largely on film, this biographical thriller covers the Manhattan Project and the later security hearing that questioned his loyalty.",
+    "description": "The story of the physicist who led the creation of the atomic bomb, and the moral weight and political fallout that followed.",
+    "formats": [
+      "2D",
+      "IMAX 2D"
+    ],
+    "details": [],
+    "trailerUrl": "",
+    "posterUrl": "/posters/oppenheimer.jpg",
+    "releaseDate": null
+  },
+  "Inception": {
+    "id": 8,
+    "title": "Inception",
+    "industry": "Hollywood",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "rating": 8.8,
+    "durationMinutes": 148,
+    "certificate": "UA",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Ken Watanabe",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy",
+      "Marion Cotillard",
+      "Cillian Murphy"
+    ],
+    "synopsis": "A layered heist across several levels of dreams, famous for its mind-bending ideas and a spinning-top ending people still debate.",
+    "description": "A skilled thief who steals secrets from inside dreams is offered a chance at redemption if he can plant an idea in a target's mind.",
+    "formats": [
+      "2D"
+    ],
+    "details": [
+      [
+        "Written & directed by",
+        "Christopher Nolan"
+      ],
+      [
+        "Produced by",
+        "Emma Thomas, Christopher Nolan"
+      ],
+      [
+        "Music",
+        "Hans Zimmer"
+      ],
+      [
+        "Presented by",
+        "Warner Bros. Pictures"
+      ],
+      [
+        "Production",
+        "Legendary Pictures, Syncopy"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/inception.jpg",
+    "releaseDate": null
+  },
+  "Interstellar": {
+    "id": 9,
+    "title": "Interstellar",
+    "industry": "Hollywood",
+    "genre": "Sci-Fi",
+    "language": "English",
+    "rating": 8.7,
+    "durationMinutes": 169,
+    "certificate": "UA",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine",
+      "Mackenzie Foy"
+    ],
+    "synopsis": "A space epic about survival, time and family, built around real ideas about black holes and relativity.",
+    "description": "With Earth running out of food, a former pilot joins a daring expedition through a wormhole to find humanity a new home.",
+    "formats": [
+      "2D",
+      "IMAX 2D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Christopher Nolan"
+      ],
+      [
+        "Written by",
+        "Jonathan Nolan, Christopher Nolan"
+      ],
+      [
+        "Produced by",
+        "Emma Thomas, Christopher Nolan, Lynda Obst"
+      ],
+      [
+        "Music",
+        "Hans Zimmer"
+      ],
+      [
+        "Studios",
+        "Paramount Pictures, Warner Bros. Pictures, Legendary Pictures"
+      ],
+      [
+        "Release",
+        "November 2014"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/interstellar.jpg",
+    "releaseDate": null
+  },
+  "The Dark Knight": {
+    "id": 10,
+    "title": "The Dark Knight",
+    "industry": "Hollywood",
+    "genre": "Action",
+    "language": "English",
+    "rating": 9,
+    "durationMinutes": 152,
+    "certificate": "UA",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Gary Oldman",
+      "Maggie Gyllenhaal",
+      "Morgan Freeman"
+    ],
+    "synopsis": "Often called one of the best superhero films, it plays like a crime thriller about order, chaos and the choices a hero must make.",
+    "description": "Batman faces the Joker, an anarchic criminal who pushes Gotham's heroes and its people to their limits.",
+    "formats": [
+      "2D",
+      "IMAX 2D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Christopher Nolan"
+      ],
+      [
+        "Produced by",
+        "Emma Thomas, Charles Roven, Christopher Nolan"
+      ],
+      [
+        "Studio",
+        "Warner Bros. Pictures"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/the-dark-knight.jpg",
+    "releaseDate": null
+  },
+  "Avatar: The Way of Water": {
+    "id": 11,
+    "title": "Avatar: The Way of Water",
+    "industry": "Hollywood",
+    "genre": "Adventure",
+    "language": "English",
+    "rating": 7.6,
+    "durationMinutes": 192,
+    "certificate": "UA",
+    "year": 2022,
+    "director": "James Cameron",
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Kate Winslet"
+    ],
+    "synopsis": "Set mostly among Pandora's reefs and oceans, it is known for its groundbreaking underwater motion capture and 3D visuals.",
+    "description": "Jake Sully and his family flee to the ocean clans of Pandora as an old threat returns to hunt them.",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX 3D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "James Cameron"
+      ],
+      [
+        "Produced by",
+        "James Cameron, Jon Landau"
+      ],
+      [
+        "Studio",
+        "20th Century Studios"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/avatar-the-way-of-water.jpg",
+    "releaseDate": null
+  },
+  "Top Gun: Maverick": {
+    "id": 12,
+    "title": "Top Gun: Maverick",
+    "industry": "Hollywood",
+    "genre": "Action",
+    "language": "English",
+    "rating": 8.2,
+    "durationMinutes": 130,
+    "certificate": "UA",
+    "year": 2022,
+    "director": "Joseph Kosinski",
+    "cast": [
+      "Tom Cruise",
+      "Miles Teller",
+      "Jennifer Connelly",
+      "Jon Hamm",
+      "Glen Powell"
+    ],
+    "synopsis": "A sequel to the 1986 original, praised for its real in-cockpit flying footage and its emotional core.",
+    "description": "Decades into his career, a veteran Navy pilot trains a new generation of elite flyers for a near-impossible mission.",
+    "formats": [
+      "2D",
+      "IMAX 2D",
+      "4DX"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Joseph Kosinski"
+      ],
+      [
+        "Produced by",
+        "Jerry Bruckheimer, Tom Cruise, Christopher McQuarrie, David Ellison"
+      ],
+      [
+        "Studio",
+        "Paramount Pictures"
+      ],
+      [
+        "First released",
+        "27 May 2022"
+      ],
+      [
+        "Special formats",
+        "IMAX, Dolby Cinema"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/top-gun-maverick.jpg",
+    "releaseDate": null
+  },
+  "Barbie": {
+    "id": 13,
+    "title": "Barbie",
+    "industry": "Hollywood",
+    "genre": "Comedy",
+    "language": "English",
+    "rating": 6.8,
+    "durationMinutes": 114,
+    "certificate": "UA",
+    "year": 2023,
+    "director": "Greta Gerwig",
+    "cast": [
+      "Margot Robbie",
+      "Ryan Gosling",
+      "America Ferrera",
+      "Kate McKinnon",
+      "Issa Rae"
+    ],
+    "synopsis": "A colourful comedy about identity and expectations, with a playful take on the doll's world and the real one.",
+    "description": "Barbie leaves Barbieland for the real world after an existential crisis and discovers what it means to be human.",
+    "formats": [
+      "2D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Greta Gerwig"
+      ],
+      [
+        "Written by",
+        "Greta Gerwig, Noah Baumbach"
+      ],
+      [
+        "Produced by",
+        "Margot Robbie, Tom Ackerley, Robbie Brenner, David Heyman"
+      ],
+      [
+        "Studio",
+        "Warner Bros. Pictures"
+      ],
+      [
+        "First released",
+        "21 July 2023"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/barbie.jpg",
+    "releaseDate": null
+  },
+  "Inside Out 2": {
+    "id": 14,
+    "title": "Inside Out 2",
+    "industry": "Hollywood",
+    "genre": "Animation",
+    "language": "English",
+    "rating": 7.6,
+    "durationMinutes": 96,
+    "certificate": "U",
+    "year": 2024,
+    "director": "Kelsey Mann",
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman",
+      "Liza Lapira",
+      "Tony Hale",
+      "Lewis Black"
+    ],
+    "synopsis": "Pixar's animated sequel adds anxiety and other new emotions, exploring what growing up really feels like.",
+    "description": "Riley turns thirteen and new emotions arrive at headquarters, shaking up the ones that were already in charge.",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Kelsey Mann"
+      ],
+      [
+        "Produced by",
+        "Mark Nielsen"
+      ],
+      [
+        "Studio",
+        "Disney · Pixar"
+      ],
+      [
+        "First released",
+        "June 2024"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/inside-out-2.jpg",
+    "releaseDate": null
+  },
+  "RRR": {
+    "id": 15,
+    "title": "RRR",
+    "industry": "South Indian",
+    "genre": "Action",
+    "language": "Telugu",
+    "rating": 7.8,
+    "durationMinutes": 187,
+    "certificate": "UA",
+    "year": 2022,
+    "director": "S. S. Rajamouli",
+    "cast": [
+      "N. T. Rama Rao Jr.",
+      "Ram Charan",
+      "Alia Bhatt",
+      "Ajay Devgn",
+      "Olivia Morris"
+    ],
+    "synopsis": "A grand period action drama inspired by two freedom fighters, full of huge stunts and song-and-dance numbers. Its song Naatu Naatu won an Oscar.",
+    "description": "In 1920s colonial India, two fierce revolutionaries form an unlikely friendship before fate turns them against each other.",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX 3D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "S. S. Rajamouli"
+      ],
+      [
+        "Produced by",
+        "D. V. V. Danayya"
+      ],
+      [
+        "Music",
+        "M. M. Keeravani"
+      ],
+      [
+        "Languages",
+        "Telugu, Hindi, Tamil, Malayalam, Kannada"
+      ],
+      [
+        "First released",
+        "25 March 2022"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/rrr.jpg",
+    "releaseDate": null
+  },
+  "KGF: Chapter 2": {
+    "id": 16,
+    "title": "KGF: Chapter 2",
+    "industry": "South Indian",
+    "genre": "Action",
+    "language": "Kannada",
+    "rating": 8.2,
+    "durationMinutes": 168,
+    "certificate": "UA",
+    "year": 2022,
+    "director": "Prashanth Neel",
+    "cast": [
+      "Yash",
+      "Sanjay Dutt",
+      "Raveena Tandon",
+      "Srinidhi Shetty",
+      "Prakash Raj"
+    ],
+    "synopsis": "The sequel to KGF: Chapter 1 continues the story with bigger action set pieces and a stylised mass-entertainer treatment.",
+    "description": "Rocky keeps rising through the gold fields, drawing the attention of powerful rivals and the government.",
+    "formats": [
+      "2D",
+      "IMAX 2D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Prashanth Neel"
+      ],
+      [
+        "Produced by",
+        "Vijay Kiragandur"
+      ],
+      [
+        "Studio",
+        "Hombale Films"
+      ],
+      [
+        "Music",
+        "Ravi Basrur"
+      ],
+      [
+        "Languages",
+        "Kannada, Hindi, Telugu, Tamil, Malayalam"
+      ],
+      [
+        "First released",
+        "14 April 2022"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/kgf-chapter-2.jpg",
+    "releaseDate": null
+  },
+  "Kalki 2898 AD": {
+    "id": 17,
+    "title": "Kalki 2898 AD",
+    "industry": "South Indian",
+    "genre": "Sci-Fi",
+    "language": "Telugu",
+    "rating": 7.1,
+    "durationMinutes": 181,
+    "certificate": "UA",
+    "year": 2024,
+    "director": "Nag Ashwin",
+    "cast": [
+      "Prabhas",
+      "Amitabh Bachchan",
+      "Kamal Haasan",
+      "Deepika Padukone",
+      "Disha Patani"
+    ],
+    "synopsis": "A mythology-meets-science-fiction epic that blends futuristic design with stories from Indian epics.",
+    "description": "In a distant future, a bounty hunter and an ancient warrior are pulled into a battle over the fate of a long-awaited child.",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX 3D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Nag Ashwin"
+      ],
+      [
+        "Produced by",
+        "C. Ashwini Dutt"
+      ],
+      [
+        "Studio",
+        "Vyjayanthi Movies"
+      ],
+      [
+        "Music",
+        "Santhosh Narayanan"
+      ],
+      [
+        "Languages",
+        "Telugu, Hindi, Tamil, Malayalam, Kannada"
+      ],
+      [
+        "First released",
+        "27 June 2024"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/kalki-2898-ad.jpg",
+    "releaseDate": null
+  },
+  "Parasite": {
+    "id": 18,
+    "title": "Parasite",
+    "industry": "International",
+    "genre": "Thriller",
+    "language": "Korean",
+    "rating": 8.5,
+    "durationMinutes": 132,
+    "certificate": "A",
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong",
+      "Choi Woo-shik",
+      "Park So-dam"
+    ],
+    "synopsis": "A dark comedy thriller about class divide, and the first non-English-language film to win the Oscar for Best Picture.",
+    "description": "A poor family schemes its way into the lives of a wealthy household, with consequences nobody expects.",
+    "formats": [
+      "2D"
+    ],
+    "details": [
+      [
+        "Directed by",
+        "Bong Joon-ho"
+      ],
+      [
+        "Written by",
+        "Bong Joon-ho, Han Jin-won"
+      ],
+      [
+        "Produced by",
+        "Kwak Sin-ae, Bong Joon-ho"
+      ],
+      [
+        "Awards",
+        "Palme d'Or (Cannes 2019), Oscar for Best Picture"
+      ],
+      [
+        "First released",
+        "30 May 2019"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/parasite.jpg",
+    "releaseDate": null
+  },
+  "Spirited Away": {
+    "id": 19,
+    "title": "Spirited Away",
+    "industry": "International",
+    "genre": "Animation",
+    "language": "Japanese",
+    "rating": 8.6,
+    "durationMinutes": 125,
+    "certificate": "U",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki",
+      "Daveigh Chase",
+      "Jason Marsden"
+    ],
+    "synopsis": "A hand-drawn fantasy from Studio Ghibli that won the Oscar for Best Animated Feature.",
+    "description": "A young girl wanders into a world of spirits and must work in a bathhouse for gods to free her parents and herself.",
+    "formats": [
+      "2D"
+    ],
+    "details": [
+      [
+        "Written & directed by",
+        "Hayao Miyazaki"
+      ],
+      [
+        "Studio",
+        "Studio Ghibli"
+      ],
+      [
+        "Music",
+        "Joe Hisaishi"
+      ],
+      [
+        "Awards",
+        "Golden Bear (Berlin 2002), Oscar for Best Animated Feature"
+      ],
+      [
+        "First released",
+        "20 July 2001"
+      ]
+    ],
+    "trailerUrl": "",
+    "posterUrl": "/posters/spirited-away.jpg",
+    "releaseDate": null
+  }
+}
